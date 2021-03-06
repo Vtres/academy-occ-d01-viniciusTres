@@ -1,0 +1,35 @@
+{
+  "imports": [],
+  "translations": [
+    {
+      "name": "academy-occ-d01-viniciusTres",
+      "language": "en"
+    },
+    {
+      "name": "academy-occ-d01-viniciusTres",
+      "language": "pt_BR"
+    }
+  ],
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "minWidth": 1,
+  "globalEnabled": false,
+  "config": {
+    "banner1": {
+      "mediaName": "general/compassouol.jpg",
+      "src": "/file/general/compassouol.jpg"
+    },
+    "banner2": {
+      "mediaName": "general/imagens-amor.jpg",
+      "src": "/file/general/imagens-amor.jpg"
+    },
+    "banner3": {
+      "mediaName": "general/pexels-life-of-pix-7653.jpg",
+      "src": "/file/general/pexels-life-of-pix-7653.jpg"
+    },
+    "banner4": {
+      "mediaName": "general/689329.jpg",
+      "src": "/file/general/689329.jpg"
+    }
+  }
+}

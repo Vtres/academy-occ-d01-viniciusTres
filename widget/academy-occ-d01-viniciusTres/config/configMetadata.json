@@ -1,0 +1,68 @@
+{
+  "widgetDescriptorName": "academy-occ-d01-viniciusTres",
+  "properties": [
+    {
+      "defaultValue": "",
+      "name": "principalTitle",
+      "id": "principalTitle",
+      "labelResourceId": "titlePrincipal",
+      "type": "stringType"
+    },
+    {
+      "name": "banner1",
+      "id": "banner1",
+      "helpTextResourceId": "imageChoice",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "...",
+      "name": "textBanner1",
+      "id": "textBanner1",
+      "labelResourceId": "descriptionTextBanner1",
+      "type": "stringType"
+    },
+    {
+      "name": "banner2",
+      "id": "banner2",
+      "helpTextResourceId": "imageChoice",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "...",
+      "name": "textBanner2",
+      "id": "textBanner2",
+      "labelResourceId": "descriptionTextBanner2",
+      "type": "stringType"
+    },
+    {
+      "name": "banner3",
+      "id": "banner3",
+      "helpTextResourceId": "imageChoice",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "...",
+      "name": "textBanner3",
+      "id": "textBanner3",
+      "labelResourceId": "descriptionTextBanner3",
+      "type": "stringType"
+    },
+    {
+      "name": "banner4",
+      "id": "banner4",
+      "helpTextResourceId": "imageChoice",
+      "type": "mediaType",
+      "required": true
+    },
+    {
+      "defaultValue": "...",
+      "name": "textBanner4",
+      "id": "textBanner4",
+      "labelResourceId": "descriptionTextBanner4",
+      "type": "stringType"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "descriptionTextBanner2": "Descrição do bannher 2",
+    "descriptionTextBanner1": "Descrição do bannher 1",
+    "descriptionTextBanner4": "Descrição do bannher 4",
+    "descriptionTextBanner3": "Descrição do bannher 3",
+    "titlePrincipal": "Você pode escolher um titulo acima do Banner",
+    "imageChoice": "Choose an image for the banner"
+  }
+}

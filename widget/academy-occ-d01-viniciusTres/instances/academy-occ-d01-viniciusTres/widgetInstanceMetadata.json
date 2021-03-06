@@ -1,0 +1,26 @@
+{
+  "configuration": {
+    "textBanner2": "...",
+    "textBanner1": "...",
+    "banner4": {
+      "src": "/file/v7015755697480127726/general/1_C1uFaIDCCrFQnFuru5jurQ.png",
+      "mediaName": "/general/1_C1uFaIDCCrFQnFuru5jurQ.png"
+    },
+    "textBanner4": "...",
+    "textBanner3": "...",
+    "banner2": {
+      "src": "/file/general/imagens-amor.jpg",
+      "mediaName": "general/imagens-amor.jpg"
+    },
+    "banner3": {
+      "src": "/file/general/pexels-life-of-pix-7653.jpg",
+      "mediaName": "general/pexels-life-of-pix-7653.jpg"
+    },
+    "principalTitle": "",
+    "banner1": {
+      "src": "/file/general/compassouol.jpg",
+      "mediaName": "general/compassouol.jpg"
+    }
+  },
+  "displayName": "academy-occ-d01-viniciusTres"
+}
